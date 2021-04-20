@@ -5,7 +5,7 @@
 
 <img src="Images/snapshot.png" width="600" height="400">
 
-  ### - The link for the app of this project is [here](https://luiserojas74.github.io/javascript-challenge/UFO-level-2/).
+  ### - The link for the app of this project is [here](https://luiserojas74.github.io/leaflet-challenge/).
    - The main tools I used on this project are : html, css, leaflet and mapbox.
    
 
