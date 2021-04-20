@@ -3,7 +3,7 @@
    - I created an interactive map to visualize earthquake data from USGS. For more details, see [here](#the-original-text-of-the-homework-assignment).
    - Here is a snapshot of the app: 
 
-<img src="images/snapshot.png" width="600" height="400">
+<img src="Images/snapshot.png" width="600" height="400">
 
   ### - The link for the app of this project is [here](https://luiserojas74.github.io/javascript-challenge/UFO-level-2/).
    - The main tools I used on this project are : html, css, leaflet and mapbox.
