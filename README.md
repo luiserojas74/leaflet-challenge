@@ -1,3 +1,16 @@
+## About
+   - This is the project I developed for unit 17 of the Boot Camp: [Data Visualization and Analytics](https://bootcamp.uncc.edu/data/)
+   - I created an interactive map to visualize earthquake data from USGS. For more details, see [here](#the-original-text-of-the-homework-assignment).
+   - Here is a snapshot of the app: 
+
+<img src="images/snapshot.png" width="600" height="400">
+
+  ### - The link for the app of this project is [here](https://luiserojas74.github.io/javascript-challenge/UFO-level-2/).
+   - The main tools I used on this project are : html, css, leaflet and mapbox.
+   
+
+
+## **_The original text of the homework assignment:_** 
 # Leaflet Homework - Visualizing Data with Leaflet
 
 ## Background
