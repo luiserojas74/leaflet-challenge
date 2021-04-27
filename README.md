@@ -1,15 +1,17 @@
 ## About
    - This is the project I developed for unit 17 of the Boot Camp: [Data Visualization and Analytics](https://bootcamp.uncc.edu/data/)
-   - I created an interactive map to visualize earthquake data from USGS. For more details, see [here](#the-original-text-of-the-homework-assignment).
+   - I created an interactive map to visualize earthquake data from USGS during the last month. For more details, see [here](#the-original-text-of-the-homework-assignment).
    - Here is a snapshot of the challenge #1: 
 
 <img src="Images/snapshot1.png" width="600" height="400">
+
+### - The link for this app is [here](https://luiserojas74.github.io/leaflet-challenge/Leaflet-Step-1/).
 
    - And this is a snapshot of the challenge #2: 
 
 <img src="Images/snapshot2.png" width="600" height="400">
 
-  ### - The link for the app of this project is [here](https://luiserojas74.github.io/leaflet-challenge/).
+  ### - The link for this one is [here](https://luiserojas74.github.io/leaflet-challenge/Leaflet-Step-2/).
    - The main tools I used on this project are : html, css, leaflet and mapbox.
    
 
