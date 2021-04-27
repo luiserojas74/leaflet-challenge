@@ -5,7 +5,7 @@
 
 <img src="Images/snapshot1.png" width="600" height="400">
 
-   - And this is a snapshot of the solutions for challenge #2: 
+   - And this is a snapshot of the solution for challenge #2: 
 
 <img src="Images/snapshot2.png" width="600" height="400">
 
