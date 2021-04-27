@@ -1,11 +1,11 @@
 ## About
    - This is the project I developed for unit 17 of the Boot Camp: [Data Visualization and Analytics](https://bootcamp.uncc.edu/data/)
    - I created an interactive map to visualize earthquake data from USGS during the last month. For more details, see [here](#the-original-text-of-the-homework-assignment).
-   - Here is a snapshot of the solution of challenge #1: 
+   - Here is a snapshot of the solution for challenge #1: 
 
 <img src="Images/snapshot1.png" width="600" height="400">
 
-   - And this is a snapshot of the solutions of challenge #2: 
+   - And this is a snapshot of the solutions for challenge #2: 
 
 <img src="Images/snapshot2.png" width="600" height="400">
 
